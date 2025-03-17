@@ -20,14 +20,14 @@
     - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
   - [x] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
+  - [x] Différenciateur (par ex : Delta) 
   - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### Outils
 
 - [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
+  - [x] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
   - [ ] Faire le tour du propriétaire
 
